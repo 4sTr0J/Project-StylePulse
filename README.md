@@ -65,3 +65,19 @@ npm run dev
   - **Database**: Supabase (PostgreSQL) + Local SQLite (Loyalty & Rewards tracking).
   - **AI & NLP**: Custom review sentiment analysis pipeline + Google Gemini AI assistant.
   - **Scheduling**: Node-cron automated appointment reminders & status processors.
+
+---
+
+## 👥 Contributors
+
+This project was built collaboratively. The following team members each developed their own modules which were integrated into this platform:
+
+| Contributor | GitHub | Module |
+|---|---|---|
+| **Saneth Rasanjana** | [@SanethRasanjana](https://github.com/SanethRasanjana) | [Frontend UI](https://github.com/SanethRasanjana/TCC-FRONTEND) |
+| **Aravinda** | [@Aravinda123-arch](https://github.com/Aravinda123-arch) | [AI Agent](https://github.com/Aravinda123-arch/AI-Agent) |
+| **Wasugi** | [@wasugj](https://github.com/wasugj) | [Salon Owner Dashboard](https://github.com/wasugj/salon-owner-dashboard-service) |
+| **Oshan Martenstyne** | [@oshanmartenstyne](https://github.com/oshanmartenstyne) | [StylePulse Module](https://github.com/oshanmartenstyne/stylepulseosh) |
+| **NiAyo10** | [@NiAyo10](https://github.com/NiAyo10) | NLP & Notifications System |
+
+> See [CONTRIBUTORS.md](./CONTRIBUTORS.md) for full details.
